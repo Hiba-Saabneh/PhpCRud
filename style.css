@@ -1,0 +1,106 @@
+a{
+    text-decoration: none;
+}
+
+.img1{
+
+    height:100%;
+
+}
+
+.container{
+    height:100vh;
+}
+
+input{
+    display: inline-block;
+}
+
+.h-75{
+    height:90% !important;
+ 
+}
+
+.in1{
+color:#666;
+background-color: #e6e6e6;
+}
+
+.s1{
+    color:white;
+    background-color: #57b846;
+}
+
+.forget{
+color:#aaa1a1;
+font-size: 12px; 
+    
+}
+
+.body1 a{
+    color:#666;
+    font-size: 15;
+     text-decoration: none;
+ transition: all 0.2s;
+ transition-duration: 0.2s;
+}
+.body1 a:hover{
+ text-decoration: underline;
+ color: #aaa1a1;
+
+}
+
+/*register page css*/
+
+.body2{
+    background-color: #a6f099;
+  height:120vh;
+}
+
+.body2 .content{
+    height: 100vh;
+    
+ 
+}
+.reg{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ width:65%;
+    height: 90vh;
+}
+.btn,.fir-sec{
+    background-color: #57b846;
+}
+.sec-sec{
+    background-color: white;
+}
+
+
+.w{
+    color: white;
+}
+
+.body2 p{
+    color: white;
+}
+
+.h{
+    color: #57b846;   
+
+}
+
+.btn:hover{
+    background-color: #a6f099!important;
+}
+.btn2:hover{
+    background-color: #a6f099!important;
+}
+label,input,.btn2{
+ color:#666;
+}
+/*view page*/
+
+span .admin{
+    font-size: 30px !important;
+    font-weight: 500 !important;
+    background-color: #57b846;
+}
